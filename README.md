@@ -3,7 +3,7 @@
 Site institucional responsivo desenvolvido para apresentar o trabalho artesanal de **Sandra Mara Possebon**, com foco em doces modelados, presentes afetivos, mesas decoradas e pedidos personalizados.
 
 🔗 **Site publicado:**  
-https://henriquedu.github.io/tempero-da-vovo/
+https://henriquedu.github.io/doces-modelados-sandra/
 
 ---
 
