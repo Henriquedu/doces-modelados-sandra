@@ -1,11 +1,10 @@
-
 <div align="center">
 
-# 👗 Arraso Moda Feminina
+# 🍫 Doces Modelados Sandra
 
-### Landing page moderna para uma loja de moda feminina
+### Landing Page para divulgação de doces personalizados e artesanais
 
-Uma página web desenvolvida para apresentar uma loja de moda feminina de forma elegante, responsiva e intuitiva, proporcionando uma ótima experiência para os clientes.
+Uma página web desenvolvida para apresentar produtos, facilitar o contato com clientes e divulgar o trabalho de uma confeitaria especializada em doces modelados.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,9 +18,9 @@ Uma página web desenvolvida para apresentar uma loja de moda feminina de forma 
 
 # 📖 Sobre
 
-O **Arraso Moda Feminina** é um projeto de página institucional criado para demonstrar habilidades em desenvolvimento front-end.
+O **Doces Modelados Sandra** é uma landing page desenvolvida para divulgar doces personalizados, facilitar o contato com clientes e apresentar os produtos de forma moderna e organizada.
 
-O foco foi criar um layout moderno, organizado e responsivo, destacando produtos, identidade visual e informações da loja.
+O projeto foi criado com foco em uma experiência simples, responsiva e agradável, permitindo que os visitantes encontrem rapidamente informações sobre os produtos e formas de contato.
 
 ---
 
@@ -29,16 +28,16 @@ O foco foi criar um layout moderno, organizado e responsivo, destacando produtos
 
 - Página totalmente responsiva
 - Layout moderno
-- Seções organizadas
 - Catálogo de produtos
-- Informações da loja
+- Galeria de imagens
+- Informações da empresa
 - Botões de contato
-- Navegação simples
-- Código limpo
+- Navegação intuitiva
+- Design otimizado para dispositivos móveis
 
 ---
 
-# 🛠️ Tecnologias
+# 🚀 Tecnologias
 
 - HTML5
 - CSS3
@@ -49,7 +48,7 @@ O foco foi criar um layout moderno, organizado e responsivo, destacando produtos
 # 📂 Estrutura
 
 ```text
-arraso-moda-feminina/
+doces-modelados-sandra/
 │
 ├── assets/
 ├── css/
@@ -60,41 +59,58 @@ arraso-moda-feminina/
 
 ---
 
-# 🚀 Como executar
+# ⚙️ Como executar
+
+Clone o repositório
 
 ```bash
-git clone https://github.com/Henriquedu/arraso-moda-feminina.git
+git clone https://github.com/Henriquedu/doces-modelados-sandra.git
 ```
 
 Entre na pasta
 
 ```bash
-cd arraso-moda-feminina
+cd doces-modelados-sandra
 ```
 
-Abra o arquivo:
+Abra o arquivo
 
 ```text
 index.html
 ```
 
-Ou utilize a extensão **Live Server** do VS Code.
+Ou utilize a extensão **Live Server** no VS Code.
 
 ---
 
 # 📸 Demonstração
 
-> Adicione screenshots da página ou um GIF mostrando a navegação.
+## Página inicial
+
+> Adicione uma captura da tela inicial.
+
+---
+
+## Produtos
+
+> Adicione uma captura da galeria de produtos.
+
+---
+
+## Responsividade
+
+> Adicione uma captura da versão mobile.
 
 ---
 
 # 📈 Roadmap
 
 - [ ] Catálogo dinâmico
-- [ ] Filtro por categorias
-- [ ] Carrinho de compras
 - [ ] Integração com WhatsApp
-- [ ] Integração com API de produtos
+- [ ] Sistema de pedidos
+- [ ] Avaliações de clientes
+- [ ] Formulário de orçamento
+- [ ] Integração com Instagram
 
 ---
 
@@ -107,4 +123,6 @@ Ou utilize a extensão **Live Server** do VS Code.
 
 ---
 
-## ⭐ Se este projeto foi útil, deixe uma estrela no repositório!
+## ⭐ Gostou do projeto?
+
+Se este projeto foi útil, considere deixar uma estrela no repositório.
