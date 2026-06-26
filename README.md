@@ -1,96 +1,110 @@
-# 🍬 Doces Modelados - Sandra Mara Possebon
 
-Site institucional responsivo desenvolvido para apresentar o trabalho artesanal de **Sandra Mara Possebon**, com foco em doces modelados, presentes afetivos, mesas decoradas e pedidos personalizados.
+<div align="center">
 
-🔗 **Site publicado:**  
-https://henriquedu.github.io/doces-modelados-sandra/
+# 👗 Arraso Moda Feminina
 
----
+### Landing page moderna para uma loja de moda feminina
 
-## 📌 Sobre o projeto
+Uma página web desenvolvida para apresentar uma loja de moda feminina de forma elegante, responsiva e intuitiva, proporcionando uma ótima experiência para os clientes.
 
-Este projeto foi desenvolvido como parte da prática extensionista do curso de **Gestão da Tecnologia da Informação**, com o objetivo de aplicar tecnologia em um contexto real de pequeno empreendimento.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 
-A solução digital foi criada para organizar a divulgação dos doces modelados produzidos por Sandra Mara Possebon, facilitando o acesso dos clientes às informações de produtos, encomendas, contato, Instagram e localização.
-
----
-
-## 🎯 Objetivo
-
-Desenvolver um site simples, bonito, responsivo e funcional para fortalecer a presença digital da marca pessoal **Doces Modelados - Sandra Mara Possebon**.
-
-O site busca apoiar a divulgação dos produtos e facilitar o contato de clientes interessados em encomendas personalizadas.
+</div>
 
 ---
 
-## 🧁 Diferencial dos produtos
+# 📖 Sobre
 
-Todos os doces são feitos com **modelagem à mão livre** utilizando **pasta de marshmallow**. Toda a modelagem é comestível, valorizando tanto a estética quanto a experiência do cliente.
+O **Arraso Moda Feminina** é um projeto de página institucional criado para demonstrar habilidades em desenvolvimento front-end.
 
----
-
-## 🧩 Funcionalidades
-
-- Página inicial responsiva;
-- Menu desktop e mobile;
-- Submenu em “Doces Modelados”;
-- Galerias por categoria;
-- Botão flutuante do WhatsApp;
-- Página de encomendas;
-- Página “Quem Sou Eu”;
-- Página de contato com WhatsApp, Instagram, e-mail e endereço;
-- Estrutura compatível com GitHub Pages.
+O foco foi criar um layout moderno, organizado e responsivo, destacando produtos, identidade visual e informações da loja.
 
 ---
 
-## 📂 Categorias do site
+# ✨ Funcionalidades
 
-### 🍭 Doces Modelados
-Apresentação geral dos doces modelados à mão livre e das categorias principais.
-
-### 🎁 Presentes Afetivos
-Produtos pensados para datas especiais, lembranças e presentes personalizados.
-
-### 🎪 Mesa Decorada
-Doces temáticos para compor mesas de aniversário, festas infantis e eventos.
-
-### ✨ Pedido Personalizado
-Criações feitas conforme o tema, referência e necessidade do cliente.
+- Página totalmente responsiva
+- Layout moderno
+- Seções organizadas
+- Catálogo de produtos
+- Informações da loja
+- Botões de contato
+- Navegação simples
+- Código limpo
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+# 🛠️ Tecnologias
 
-- HTML5;
-- CSS3;
-- JavaScript;
-- Git;
-- GitHub;
-- GitHub Pages.
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-## 🌱 Impacto extensionista
+# 📂 Estrutura
 
-O projeto contribui para a organização da comunicação digital do empreendimento, facilitando a divulgação dos doces e tornando as informações mais acessíveis para clientes.
-
-Além disso, a solução fortalece a presença online da Sandra e valoriza o trabalho artesanal realizado em cada encomenda.
-
----
-
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido por **Henrique Eduardo da Maia Farias**.
-
-- GitHub: [Henriquedu](https://github.com/Henriquedu)
-- LinkedIn: [Henrique Eduardo](https://linkedin.com/in/henriqueduardo04)
+```text
+arraso-moda-feminina/
+│
+├── assets/
+├── css/
+├── js/
+├── index.html
+└── README.md
+```
 
 ---
 
-## 📌 Status
+# 🚀 Como executar
 
-✅ Site publicado  
-✅ Estrutura responsiva  
-✅ Galerias com fotos reais  
-✅ Contatos clicáveis  
-🔄 Projeto sujeito a futuras atualizações com novas fotos e categorias
+```bash
+git clone https://github.com/Henriquedu/arraso-moda-feminina.git
+```
+
+Entre na pasta
+
+```bash
+cd arraso-moda-feminina
+```
+
+Abra o arquivo:
+
+```text
+index.html
+```
+
+Ou utilize a extensão **Live Server** do VS Code.
+
+---
+
+# 📸 Demonstração
+
+> Adicione screenshots da página ou um GIF mostrando a navegação.
+
+---
+
+# 📈 Roadmap
+
+- [ ] Catálogo dinâmico
+- [ ] Filtro por categorias
+- [ ] Carrinho de compras
+- [ ] Integração com WhatsApp
+- [ ] Integração com API de produtos
+
+---
+
+# 👨‍💻 Autor
+
+**Henrique Maia**
+
+- GitHub: https://github.com/Henriquedu
+- LinkedIn: https://linkedin.com/in/henriqueduardo04
+
+---
+
+## ⭐ Se este projeto foi útil, deixe uma estrela no repositório!
